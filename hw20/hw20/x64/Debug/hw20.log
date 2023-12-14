@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\slee2\OneDrive\Documents\c++ advanced\hw20\hw20\Source.cpp(28,3): error C2181: illegal else without matching if
+C:\Users\slee2\OneDrive\Documents\c++ advanced\hw20\hw20\Source.cpp(24,21): warning C4390: ';': empty controlled statement found; is this the intent?
